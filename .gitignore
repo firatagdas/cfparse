@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+*.pro.user*
+.qmake.stash
+.qmake.cache

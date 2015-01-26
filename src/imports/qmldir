@@ -1,0 +1,4 @@
+module CFParse
+plugin declarative_cfparse
+typeinfo plugins.qmltypes
+classname CFParseModule
